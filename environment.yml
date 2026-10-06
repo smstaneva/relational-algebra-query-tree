@@ -1,0 +1,7 @@
+# environment.yml
+name: testenv
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
